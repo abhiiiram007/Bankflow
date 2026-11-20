@@ -1,0 +1,1 @@
+-- Demo account is created by the db:setup script using bcrypt.
