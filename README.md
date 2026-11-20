@@ -44,7 +44,7 @@ npm run db:setup
 npm run dev
 ```
 
-Backend: `http://localhost:5000`
+Backend: `https://bankflow-l6jc.onrender.com`
 
 The database setup script creates the tables and a demo user:
 - Email: `demo@bankflow.local`

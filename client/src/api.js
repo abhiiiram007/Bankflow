@@ -1,4 +1,4 @@
-const API = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API = import.meta.env.VITE_API_URL || 'https://bankflow-l6jc.onrender.com';
 
 export async function api(path, { token, ...options } = {}) {
   const response = await fetch(`${API}${path}`, {
